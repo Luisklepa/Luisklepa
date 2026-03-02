@@ -33,7 +33,7 @@ My work emphasizes translating **clear business questions** into structured data
 
 ## Selected Projects
 
-### 📊 Retail Performance & Profitability Analytics (Power BI)
+### Retail Performance & Profitability Analytics (Power BI)
 
 Dimensional data model with financial KPI framework and **quantified discount impact analysis**.
 
@@ -46,7 +46,7 @@ Includes:
 
 ---
 
-### 🗄 Retail SQL Analytics (PostgreSQL)
+### Retail SQL Analytics (PostgreSQL)
 
 Intermediate-to-advanced SQL analytics project using Superstore dataset.
 
