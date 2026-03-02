@@ -87,4 +87,4 @@ Data Analyst / BI Analyst roles where I can:
 ## Contact
 
 📍 Lima, Peru (Open to Remote LATAM)  
-🔗 LinkedIn: https://linkedin.com/in/luisklepatsky
+🔗 LinkedIn: https://linkedin.com/in/luisklepatzky
