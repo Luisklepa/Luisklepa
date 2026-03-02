@@ -1,5 +1,16 @@
 ## About me
 
+Aspiring **Data Analyst** focused on **retail analytics, advanced SQL and BI (Power BI)**, with additional experience in **performance analytics with Machine Learning** on financial time series.
+
+I like working where:
+- **Clear business questions** meet data (profitability, discounts, key customers).
+- **Data modeling and SQL** turn raw data into KPIs and insights (star schema, analytical queries).
+- **Visualization and storytelling** help non-technical stakeholders make decisions (Power BI, interpretable metrics, executive summaries).
+
+Main tools: **PostgreSQL, Power BI / DAX, Python, XGBoost, n8n**.
+
+### (ES) Sobre mí
+
 Data Analyst en formación con foco en **retail analytics, SQL avanzado y BI (Power BI)**, complementado con experiencia en **performance analytics con Machine Learning** sobre series temporales financieras.
 
 Me gusta trabajar donde se cruzan:
