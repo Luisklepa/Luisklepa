@@ -1,6 +1,6 @@
 ## About me
 
-Aspiring **Data Analyst** focused on **retail analytics, advanced SQL and BI (Power BI)**, with additional experience in **performance analytics with Machine Learning** on financial time series.
+**Data Analyst** focused on **retail analytics, advanced SQL and BI (Power BI)**, with additional experience in **performance analytics with Machine Learning** on financial time series.
 
 I like working where:
 - **Clear business questions** meet data (profitability, discounts, key customers).
